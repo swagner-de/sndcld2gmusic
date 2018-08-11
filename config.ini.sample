@@ -1,0 +1,10 @@
+[SOUNDCLOUD]
+PlaylistUrl=https://soundcloud.com/username/likes
+
+[GMUSIC]
+User=username@gmail.com
+Password=somepasswd
+TargetPlaylist=Soundcloud Likes
+
+[PROG]
+DownloadPath=downloads/

@@ -1,0 +1,5 @@
+argparse
+configparser
+soundscrape
+gmusicapi
+mutagen

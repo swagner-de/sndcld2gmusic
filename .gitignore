@@ -1,0 +1,6 @@
+venv/
+*.ini
+downloads/
+*.log
+*.db.json
+.idea/*
